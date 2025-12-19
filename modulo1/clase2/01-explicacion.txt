@@ -1,0 +1,12 @@
+¿Que es python?
+Es un lenguaje de programacion de alto nivel interpretado.
+
+Que es alto nivel?
+En programacion tenemos varios tipos de lenguaje, cuanto mas bajo nivel sea mas "parecido al lenguaje de las computadoras"
+va a ser, cuanto mas alto, mas diferente.
+Ejemplo del lenguaje MAS BAJO: 011110110001
+
+Que es interpretado?
+Tenemos dos tipos de lenguaje, compilados e interpretados.
+El compilado, lee todo los archivos, y luego ejecuta, el interpretado, va ajecutando a medida que lee.
+
