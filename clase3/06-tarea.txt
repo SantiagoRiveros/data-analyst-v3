@@ -1,0 +1,7 @@
+Tarea:
+
+Crear una lista con 10 números y mostrar solo los pares.
+
+Crear un diccionario con 3 países y sus capitales y permitir que el usuario consulte una capital por el nombre del país.
+
+Pedir al usuario su nombre y edad, y mostrar un mensaje indicando si es mayor de edad.

@@ -1,0 +1,15 @@
+Para ejecutar un codigo en python:
+
+Primero, necesitamos tener el codigo, luego, abrimos la terminal, podemos abrirla con:
+
+Control + Ñ
+
+Una vez abierta, si no estamos ne la misma carpeta en la terminal, que donde esta el codigo, debemos navegar hacia ella.
+
+cd <NOMBRE_DE_LA_CARPETA>
+
+(Reemplazamos <NOMBRE_DE_LA_CARPETA> por el nombre de la carpeta en si)
+
+una vez en la misma carpeta que el archivo, ejecutamos ne la terminal:
+
+python <NOMBRE_DEL_ARCHIVO>
