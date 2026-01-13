@@ -1,0 +1,1 @@
+Pandas es una libreria para manejar datos tabulares como si fueran hojas de calculo

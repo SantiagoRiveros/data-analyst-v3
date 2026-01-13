@@ -1,0 +1,4 @@
+Numpy - ¿Que es numpy?
+
+Es una biblioteca para trabajar con arrays (MUUUUY SIMILAR A LAS LISTAS) y para hacer calculos numericos
+
