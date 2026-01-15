@@ -1,0 +1,104 @@
+🧠 EJERCICIO 1 – Leer y explorar el CSV
+
+Leer el archivo empleados.csv con pandas
+
+Mostrar:
+
+Primeras 5 filas
+
+Columnas
+
+Tipos de datos
+
+📌 Objetivo: familiarizarse con el dataset
+
+🧠 EJERCICIO 2 – Condicionales
+
+Crear una nueva columna llamada "Categoria":
+
+"Junior" → Antigüedad < 3
+
+"Semi Senior" → Antigüedad entre 3 y 7
+
+"Senior" → Antigüedad > 7
+
+📌 Objetivo: usar if / elif / else
+
+🧠 EJERCICIO 3 – Funciones
+
+Crear una función que reciba un salario y devuelva:
+
+"Bajo" → < 1500
+
+"Medio" → entre 1500 y 2500
+
+"Alto" → > 2500
+
+Aplicarla al DataFrame y crear la columna "NivelSalario".
+
+📌 Objetivo: funciones + apply()
+
+🧠 EJERCICIO 4 – Loops
+
+Usando un for, recorrer los empleados y mostrar:
+
+"Juan trabaja en Ventas y gana 1800 USD"
+{Nombre} trabaja en {Departamento} y gana {Salario} USD
+
+📌 Objetivo: loops sobre DataFrame
+
+🧠 EJERCICIO 5 – Filtrado
+
+Mostrar empleados:
+
+Mayores de 35 años
+
+Del departamento Soporte
+
+Con salario mayor a 2000
+
+📌 Objetivo: filtros con pandas
+
+🧠 EJERCICIO 6 – Estadísticas con pandas
+
+Calcular:
+
+Salario promedio
+
+Salario máximo
+
+Salario mínimo
+
+Promedio de salario por departamento
+
+📌 Objetivo: groupby
+
+🧠 EJERCICIO 7 – Gráfico de barras
+
+Crear un gráfico de barras con:
+
+Eje X → Nombre
+
+Eje Y → Salario
+
+Título: "Salario por empleado"
+
+📌 Guardar el gráfico como salarios.jpg
+
+🧠 EJERCICIO 8 – Gráfico por departamento
+
+Hacer un gráfico que muestre el salario promedio por departamento.
+
+📌 Tipo de gráfico: barras
+
+🧠 EJERCICIO BONUS 🔥
+
+Agregar una columna "Bono":
+
+Ventas → 10% del salario
+
+Soporte → 7% del salario
+
+Gerencia → 15% del salario
+
+📌 Usar función + condicionales
