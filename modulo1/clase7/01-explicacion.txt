@@ -1,0 +1,16 @@
+La limpieza de datos, es una de las partes mas fundamentales de lo que es el analisis de datos, y su importancia
+es vital para poder realizar un analisis lo mas "veridico" posible.
+
+Es fundamental asegurarse de que esten:
+-Completos (Sin valores faltantes) 
+Imaginemos que nos olvidamos de ponerle la edad a un empleado, yo tomaria la edad promedio y la insertaria ahi.
+
+-Unicos (Sin duplicados innecesarios)
+Si por error, tenemos por ejemplo un empleado copiado 7 veces, nos va a afectar los datos, por ende borrar los duplicados
+
+-Bien formateados (textos normalizados, columnas claras)
+Imaginemos que tenemos una columna que no le pusimos "sexo" o "genero" y en vez de eso le ponemos "G" o "S"
+¿Se va a entender? probablemente no.
+Ademas imaginemos que en vez de poner o hombre/mujer o femenino/masculino le ponemos a uno "H" y al otro "M" (Haciendo referencia a Hombre y Masculino)
+
+Muchos errores y confusiones en proyectos vienen de datos mal limpiados.
