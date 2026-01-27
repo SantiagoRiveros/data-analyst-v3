@@ -1,0 +1,5 @@
+-Explicacion de merge y joins: Que son y como se usan
+-Uso de merge() para combinar Dataframes segun una o varias columnas clave
+-Diferentes tipos de Join: inner, left, right y outer
+-Concatenacion de dataframes con concat()
+-Ejemplos de aplicacion practica y ejercicios guiados
