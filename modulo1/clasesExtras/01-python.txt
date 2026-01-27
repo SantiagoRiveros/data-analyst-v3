@@ -1,0 +1,7 @@
+¿Para que sirve python y que es?
+
+Python es un lenguaje de programacion de alto nivel que sirve para:
+
+-Programacion Web
+-Analisis de datos
+-Desarrollo de IA

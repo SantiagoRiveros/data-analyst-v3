@@ -1,0 +1,34 @@
+# Que es un condicional?
+# Yo puedo preguntar -> Y si 3 > 5 entonces hago A cosa sino hago B cosa
+
+edad = int(input("Que edad tenes?:"))
+
+# El "if" siempre es la primera condicion
+# Si no se cumple esa condicion pero queres hacer otra condicion
+# Metes "elif"
+# "elif" es como "sino si:"
+
+if edad >= 18 and edad < 65: # Si vos tenes 66, esto es correcto?
+    print("Eres mayor de edad") # El espacio que queda a la izquierda es IDENTACION
+elif edad >= 65:
+    print("Tenes mas de 65")
+else:
+    print("Eres menor de edad")
+    
+    
+if 3 + 2 == 5: 
+    print("Si1")
+if 2 - 1 == 1:
+    print("Si2")
+
+
+
+# Como es el orden?
+# if (condicion)
+# elif (sino si hay tal condicion)+
+# else (sino)
+
+
+# Aca preguntamos si la edad es mayor a 18:
+# printea "Eres mayor de edad"
+# pero si tenes mas de 65 va a mostrar "Tenes mas de 65 años"
