@@ -1,0 +1,11 @@
+¿Cuál fue la tasa de supervivencia general?
+2%, 20%
+
+¿Sobrevivieron más mujeres que hombres?
+Si
+
+¿La clase social influenció la supervivencia?
+Si
+
+¿Cuál era la edad promedio de los pasajeros?
+40-60, 30-50

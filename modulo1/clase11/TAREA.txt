@@ -1,0 +1,3 @@
+Investigar el dataset completo y sacar 3 conclusiones personales.
+
+Crear un pequeño resumen de 5 líneas con los hallazgos más importantes.
